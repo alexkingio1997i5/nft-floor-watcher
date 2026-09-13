@@ -31,3 +31,5 @@ Options:
 * `--telegram-token` / `--telegram-chat`: For Telegram notifications instead of Discord.
 
 To run it in the background on Windows, you can use a simple batch file or run it inside a terminal window.
+
+<!-- last-checked: 2026-09-13 -->
