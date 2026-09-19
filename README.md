@@ -32,4 +32,4 @@ Options:
 
 To run it in the background on Windows, you can use a simple batch file or run it inside a terminal window.
 
-<!-- last-checked: 2026-09-18 -->
+<!-- last-checked: 2026-09-19 -->
